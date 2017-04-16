@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VKParallelCatcher", "VKParallelCatcher\VKParallelCatcher.csproj", "{E003464C-F448-4502-B726-F733CBC6D3AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{21E296F8-7D73-47B5-B089-D630A55CB34B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E003464C-F448-4502-B726-F733CBC6D3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E003464C-F448-4502-B726-F733CBC6D3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E003464C-F448-4502-B726-F733CBC6D3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E003464C-F448-4502-B726-F733CBC6D3AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
